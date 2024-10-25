@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Test
 ---
 
+# Hello, this is a test
